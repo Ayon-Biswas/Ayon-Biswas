@@ -1,10 +1,11 @@
 ### Hi there, I'm Ayon 👋
 
-🙋‍♂️ About Me
+- ##🙋‍♂️ About Me
 
-🔭 I like Web Development.
-🌱 I’m working on improving my vanila JS skills.
-📫 How to reach me ayonshirsho@gmail.com
+- 🔭 I like Web Development.
+- 🌱 I’m working on improving my vanila JS skills.Eventually being proficient in MERN Stack
+- 📫 How to reach me ayonshirsho@gmail.com
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayon-Biswas)](https://github.com/anuraghazra/github-readme-stats)
 
 
