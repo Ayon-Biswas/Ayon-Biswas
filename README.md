@@ -1,6 +1,6 @@
-## Hi there, I'm #Ayon 👋
+## Hi there, I'm Ayon 👋
 
-- ##🙋‍♂️ About Me
+- ## 🙋‍♂️ About Me
 
 - 🔭 I like Web Development.
 - 🌱 I’m working on improving my vanila JS skills.Eventually being proficient in MERN Stack
