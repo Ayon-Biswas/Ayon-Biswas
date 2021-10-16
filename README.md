@@ -2,7 +2,7 @@
 
 - ## 🙋‍♂️ About Me
 
-- 🔭 I like Web Development.
+- 🔭 I am learning Web Development.
 - 🌱 I’m working on improving my vanila JS skills.Eventually being proficient in MERN Stack
 - 📫 How to reach me ayonshirsho@gmail.com
 - ⚡ Fun fact: I am aquarius :aquarius:
